@@ -66,6 +66,9 @@
 
 \newcommand{\CVItem}[1]
 	{\textbf{\color{RoyalBlue} #1}}
+%my macro
+\newcommand{\test}[1]
+	{\underline{\textbf{\color{RoyalBlue} #1:}}\vspace{4pt}}	
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Begin document
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -149,5 +152,24 @@ Positive Attitude & Accept Constructive Criticism & Flexibility\\
 Working as a team & Leadership & Critical thinking
 \end{tabular}
 \Sep\vspace{9pt}
+\CVSection{Projects}\vspace{-25pt} 
+\begin{compactitem}[\color{RoyalBlue}]
+\item\test{1. Transporter Bot}
+\subitem -It is two wheeled diffrential drive robot based on FireBirdV and \subitem has Two DOF Arm for picking and droping objects.
+\item\test{2. Temp.and Humidity monitor}
+\subitem -It is based on NodeMCU, DHT11 sensor and Blynk app for  
+\subitem \hspace{5pt}monitoring it's data over internet.
+\item\test{3. Emulating Mouse}
+\subitem -It is based on Arduino Leonardo and ADXL335 Acceleromter and
+\subitem\ used it's data to move cursor of computer. 
+\item\test{4. Automatic Gear Shifter}
+\subitem -It is made to automatically shift gears of Bike as per it's speed. It
+\subitem\ has Tachometer made with Hall Sensor and, Atmega32 for compu-
+\subitem\ tation.    
+\end{compactitem}
+\Sep
+\clearpage
+\framebreak
+\framebreak
 \end{document}
 
