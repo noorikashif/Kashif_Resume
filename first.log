@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 02:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 03:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,22 +821,49 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (./first.aux)
+)))
+\columni=\box69
+\colwidthi=\skip282
+\colheighti=\skip283
+\col@i@posx=\skip284
+\col@i@posy=\skip285
+\col@i@evenx=\skip286
+\col@i@eveny=\skip287
+\LeftMainSep=\skip288
+\@staticframe@i=\box70
+\@sf@i@posx=\skip289
+\@sf@i@posy=\skip290
+\@sf@i@evenx=\skip291
+\@sf@i@eveny=\skip292
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+\columnii=\box71
+\colwidthii=\skip293
+\colheightii=\skip294
+\col@ii@posx=\skip295
+\col@ii@posy=\skip296
+\col@ii@evenx=\skip297
+\col@ii@eveny=\skip298
+ (./first.aux)
 \openout1 = `first.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
@@ -845,7 +872,7 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count192
 \scratchdimen=\dimen273
-\scratchbox=\box69
+\scratchbox=\box72
 \nofMPsegments=\count193
 \nofMParguments=\count194
 \everyMPshowfont=\toks42
@@ -893,16 +920,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-
-Package flowfram Warning: No flow frames, adding one on input line 23.
-
-\columni=\box70
-\colwidthi=\skip282
-\colheighti=\skip283
-\col@i@posx=\skip284
-\col@i@posy=\skip285
-\col@i@evenx=\skip286
-\col@i@eveny=\skip287
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -926,7 +943,7 @@ Package flowfram Warning: No flow frames, adding one on input line 23.
 * \footskip=30.0pt
 * \marginparwidth=92.0pt
 * \marginparsep=7.0pt
-* \columnsep=10.0pt
+* \columnsep=14.5pt
 * \skip\footins=12.0pt plus 4.0pt minus 4.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -939,22 +956,23 @@ Package flowfram Warning: No flow frames, adding one on input line 23.
 
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `OT1/bch/bx/n' in size <12> not available
-(Font)              Font shape `OT1/bch/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/bch/b/n' tried instead on input line 55.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./first.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+] (./first.aux) ) 
 Here is how much of TeX's memory you used:
- 17124 strings out of 493029
- 312503 string characters out of 6136234
- 423480 words of memory out of 5000000
- 20398 multiletter control sequences out of 15000+600000
- 6763 words of font info for 19 fonts, out of 8000000 for 9000
+ 17219 strings out of 493029
+ 314233 string characters out of 6136234
+ 424903 words of memory out of 5000000
+ 20486 multiletter control sequences out of 15000+600000
+ 9201 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,16n,54p,470b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share
-/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/
-fonts/type1/bitstrea/charter/bchb8a.pfb>
-Output written on first.pdf (1 page, 6499 bytes).
+ 60i,16n,54p,470b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</u
+sr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb>
+Output written on first.pdf (1 page, 6601 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
