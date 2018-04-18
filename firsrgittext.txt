@@ -1,4 +1,0 @@
-Hello Git !
-Testing Add, Commit Push!
---------Initial test 1---------------
-Added!

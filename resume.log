@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 03:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 03:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**first.tex
-(./first.tex
+**resume.tex
+(./resume.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
@@ -848,8 +848,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \col@ii@posy=\skip296
 \col@ii@evenx=\skip297
 \col@ii@eveny=\skip298
- (./first.aux)
-\openout1 = `first.aux'.
+
+No file resume.aux.
+\openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
@@ -864,7 +865,6 @@ LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Try loading font information for OT1+bch on input line 69.
-
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 )
@@ -961,18 +961,18 @@ LaTeX Font Info:    Font shape `OT1/bch/bx/n' in size <12> not available
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] (./first.aux) ) 
+] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 17225 strings out of 493029
- 314276 string characters out of 6136234
+ 17223 strings out of 493029
+ 314263 string characters out of 6136234
  424986 words of memory out of 5000000
  20492 multiletter control sequences out of 15000+600000
  9201 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,16n,54p,470b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</u
-sr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb>
-Output written on first.pdf (1 page, 6601 bytes).
+ 60i,16n,54p,471b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
+usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb>
+Output written on resume.pdf (1 page, 6601 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
