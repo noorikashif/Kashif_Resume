@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 03:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 03:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -982,7 +982,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
  []
 
 
-Overfull \hbox (8.09187pt too wide) in paragraph at lines 105--117
+Overfull \hbox (8.09187pt too wide) in paragraph at lines 105--118
 [][]
  []
 
@@ -993,7 +993,7 @@ Overfull \hbox (8.09187pt too wide) in paragraph at lines 105--117
 Here is how much of TeX's memory you used:
  17253 strings out of 493029
  314650 string characters out of 6136234
- 426986 words of memory out of 5000000
+ 427986 words of memory out of 5000000
  20511 multiletter control sequences out of 15000+600000
  19741 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1002,11 +1002,12 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (1 page, 152991 bytes).
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on resume.pdf (1 page, 160674 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
